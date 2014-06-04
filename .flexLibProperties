@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="dom.tidesdk.Ti"/>
+    <classEntry path="dom.tidesdk.ui.TUI"/>
+    <classEntry path="dom.tidesdk.misc.TJSON"/>
+    <classEntry path="dom.tidesdk.misc.TPlatform"/>
+    <classEntry path="dom.tidesdk.misc.TUpdateManager"/>
+    <classEntry path="dom.tidesdk.api.TDependency"/>
+    <classEntry path="dom.tidesdk.api.TEnvironment"/>
+    <classEntry path="dom.tidesdk.ui.TUserWindowConstants"/>
+    <classEntry path="dom.tidesdk.network.THTTPClientConstants"/>
+    <classEntry path="dom.tidesdk.misc.TCodecConstants"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
